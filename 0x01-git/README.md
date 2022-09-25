@@ -1,1 +1,1 @@
-my second commit
+God is good
