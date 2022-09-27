@@ -1,1 +1,2 @@
-my second commit
+#!/bin/bash
+better days
