@@ -1,2 +1,2 @@
 #!/bin/bash
-better_days
+better days
