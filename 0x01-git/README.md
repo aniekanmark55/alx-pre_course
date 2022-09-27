@@ -1,1 +1,1 @@
-God is good
+better_days
