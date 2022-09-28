@@ -1,2 +1,1 @@
-#!/bin/bash
 better days
